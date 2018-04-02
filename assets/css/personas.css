@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 20, 2015, 11:31:04 PM
+    Author     : yank8252
+*/
+
+.tab-contenido {
+    display: none;
+    padding: 5px 10px;
+}
+.tab-titulo{
+}
+.tab-titulo h2 {
+    font-size: 20px;
+    height: 40px;
+    text-align: left;
+    margin-top: 4px;
+}
+#contenido{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10%;
+}
+.ultimoItemForm{
+    margin-bottom: 15px;
+}
